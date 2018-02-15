@@ -1,7 +1,7 @@
 # TaskScheduling
 Project about task scheduling
 
-[b]Basics:[/b]
+##Basics:
 
 Flowshop scheduling - Operation nr 1 always on I machine, operation nr 2 always on II machine.
 
