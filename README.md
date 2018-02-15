@@ -1,7 +1,7 @@
 # TaskScheduling
 Project about task scheduling
 
-##Basics:
+### Basics:
 
 Flowshop scheduling - Operation nr 1 always on I machine, operation nr 2 always on II machine.
 
@@ -14,7 +14,7 @@ Operations of each task must be scheduled on different machines.
 
 Operation1 of given task must be finished before Operation2 can start.
 
-My problem:
+### My problem:
 
 Number of machines = 2.
 
