@@ -1,7 +1,7 @@
 # TaskScheduling
 Project about task scheduling
 
-Basics:
+[b]Basics:[/b]
 
 Flowshop scheduling - Operation nr 1 always on I machine, operation nr 2 always on II machine.
 
@@ -15,10 +15,16 @@ Operations of each task must be scheduled on different machines.
 Operation1 of given task must be finished before Operation2 can start.
 
 My problem:
+
 Number of machines = 2.
+
 Number of tasks = n.
+
 Jobshop.
+
 Operations can be interrupted (for example by maintenance), and then they are resumed with additional +25% time.
+
 For first and second machine we have k maintenance with random time of start and random duration (specified by Instance Generator)
 k>=n/10.
+
 Minimization the total time of all operations.
