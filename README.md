@@ -4,10 +4,14 @@ Project about task scheduling
 Basics:
 
 Flowshop scheduling - Operation nr 1 always on I machine, operation nr 2 always on II machine.
+
 Jobshop scheduling - Instance generator assigns operations to machines for each task. In contrast to Flowshop we can have operation nr 2
 on I machine and operation nr 1 on II machine.
+
 Every task included two operations.
+
 Operations of each task must be scheduled on different machines.
+
 Operation1 of given task must be finished before Operation2 can start.
 
 My problem:
