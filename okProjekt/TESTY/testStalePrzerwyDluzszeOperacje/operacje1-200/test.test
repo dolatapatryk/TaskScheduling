@@ -1,0 +1,32 @@
+Liczba zadan: 50
+Liczba przerw na kazdej z maszyn: 5
+Max czas trwania operacji: 200
+Max czas trwania przerw: 20
+Liczba instancji: 20
+Liczba generacji: 100
+
+Wielkosc populacji: 200
+Wspolczynnik mutacji: 1.0
+Liczba kandydatow do turnieju: 30
+Liczba zwyciezcow: 75
+Wspolczynnik podzialu: 0.5
+8037;5336;33,61 %
+8648;5668;34,46 %
+9274;6278;32,31 %
+9714;6817;29,82 %
+8425;5562;33,98 %
+8104;5174;36,15 %
+8504;5517;35,12 %
+8691;5690;34,53 %
+8184;5294;35,31 %
+8600;5871;31,73 %
+8290;5481;33,88 %
+8355;5546;33,62 %
+7245;4690;35,27 %
+8325;5676;31,82 %
+8677;5915;31,83 %
+8433;5518;34,57 %
+8529;5782;32,21 %
+8173;5467;33,11 %
+8459;5471;35,32 %
+7991;5260;34,18 %
